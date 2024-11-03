@@ -1,0 +1,4 @@
+rsem	input/rsem.csv
+fluxcapacitor	input/fluxcapacitor.csv
+meta	input/meta.csv
+samp	input/samples.csv
